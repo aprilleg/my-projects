@@ -63,3 +63,11 @@ ul {
   line-height: 1;
   font-family: monospace;
 }
+a {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+p {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
